@@ -1,0 +1,1 @@
+C:\Users\bielt\OneDrive\Área de Trabalho\ponderada=java\dotnet-sonarqube-example\.sonarqube\out\0
